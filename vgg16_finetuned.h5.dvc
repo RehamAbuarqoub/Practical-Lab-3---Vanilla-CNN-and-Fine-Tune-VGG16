@@ -1,0 +1,5 @@
+outs:
+- md5: 6fb578f9f534adda7b5e6aea9593721e
+  size: 73099648
+  hash: md5
+  path: vgg16_finetuned.h5
