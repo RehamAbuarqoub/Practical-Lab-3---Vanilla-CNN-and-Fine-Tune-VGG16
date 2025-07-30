@@ -17,21 +17,21 @@ dvc pull
 here are the links for OneDrive files
 
  1. best_cnn_model.h5
- https://stuconestogacon-my.sharepoint.com/:u:/g/personal/rabuarqoub2922_conestogac_on_ca/ERkpQI99qsxAiDRHx20qvOABninePCOwLm9sQSGLu9baqA?e=ivAjbg
+ https://stuconestogacon-my.sharepoint.com/:u:/g/personal/rabuarqoub2922_conestogac_on_ca/EXcp3Ewf7ZBNna8x-KwD-4sB14xPvnuBeaOJ7x9x6AF8ag?e=xebwzt
 
  2. best_vgg_model.h5
- https://stuconestogacon-my.sharepoint.com/:u:/g/personal/rabuarqoub2922_conestogac_on_ca/EU8dDYK4VCxHrL1oxN7GgaMBDRJJhCuwdsTyKGGNgWUnQg?e=iF8hAp
+https://stuconestogacon-my.sharepoint.com/:u:/g/personal/rabuarqoub2922_conestogac_on_ca/EZHU6hWVCAlLta9Marg8gm0BcCVsu3hVTg069XIkBpe4Vg?e=eIJlz3
 
 
  3. simple_model.h5
- https://stuconestogacon-my.sharepoint.com/:u:/g/personal/rabuarqoub2922_conestogac_on_ca/EZ3zlr_u05VBi-LDB3w44JQBCoKnTiCkQCAjIasQSUPAXw?e=026M8P
+https://stuconestogacon-my.sharepoint.com/:u:/g/personal/rabuarqoub2922_conestogac_on_ca/EcYeGvssut5HgU0fYQOoPhMBkIxkW2CDkUNVYIn1dX6A0g?e=UnztQj
 
  4. simple_cnn.h5
- https://stuconestogacon-my.sharepoint.com/:u:/g/personal/rabuarqoub2922_conestogac_on_ca/EVYoycSyGHxDkpWBbhzAZmcBSKqnAKrnPbkPJlLRznRqkQ?e=5ezQrk
+https://stuconestogacon-my.sharepoint.com/:u:/g/personal/rabuarqoub2922_conestogac_on_ca/ET4zIfHphn5JkkaXRxTNiGgBYy2ad9ML2K-9wEFjTkXmIQ?e=2lvPU3
 
 
  5. vgg16_finetuned.h5
-https://stuconestogacon-my.sharepoint.com/:u:/g/personal/rabuarqoub2922_conestogac_on_ca/EXI6A6l5ZSNHu27MHofO690BMKEcF84RRkE7LNTNKCyCiQ?e=VR27VP
+https://stuconestogacon-my.sharepoint.com/:u:/g/personal/rabuarqoub2922_conestogac_on_ca/EbuO0msfuu1OojCP1kqylZoBCsjGT_yfFmcAtuDaW9OxaQ?e=YJhBfQ
 
 
 
